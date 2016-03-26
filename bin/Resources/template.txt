@@ -1,0 +1,315 @@
+﻿<!--ASW--><!--version 1.0-->
+<table width='100%' border='0' align='center' cellpadding='0' cellspacing='0'>
+<tr>
+<td>
+<SCRIPT LANGUAGE='JavaScript' type='text/javascript'>function passpara(){return 
+
+'&id=203894&itembgcolor=0xFFCCCC&bordercolor=0xDD0000&storewindowbgcolor=0xCC9933&toptextcolor=0x000006&bottomtextcolor=0x000006&stripcolor=0xEEAA99&auctionclosemessagecolor=0xFF0000&emptyb
+
+oxmessagecolor=0x990000&buttovercolor=0xEEAA99&buttoutcolor=0x000006&searchtitlecolor=0x990000&searchbuttbgcolor=0xFF6699&searchbutttextcolor=0x000006&searchbuttbordercolor=0xDD0000&itemhig
+
+hlightcolor=0xFFF000&navbuttonactivecolor=0xFF3399&navbuttonoutlinecolor=0x990000&navbuttoninactivebgcolor=0x000006&siteid=0&cat=63865&baseurl='+escape(location.href.substring(0, 
+
+location.href.lastIndexOf('/') + 1));} </script>
+<SCRIPT language='JavaScript' type='text/javascript'><!-- 
+var flashVersion = window.flashVersion ? window.flashVersion : 0;
+if (flashVersion <= 0)
+{
+var agent = navigator.userAgent.toLowerCase();
+if (navigator.plugins != null && navigator.plugins.length > 0) 
+{ 
+var flashPlugin = navigator.plugins['Shockwave Flash']; 
+if (typeof flashPlugin == 'object') 
+{
+/*
+need flash version 6 or higher (this code should work with future flash plugins.)
+*/
+if (flashPlugin.description.indexOf(' 5.') != -1)
+flashVersion = 5; 
+else if (flashPlugin.description.indexOf(' 4.') != -1)
+flashVersion = 4; 
+else if (flashPlugin.description.indexOf(' 3.') != -1)
+flashVersion = 3; 
+else if (flashPlugin.description.indexOf(' 2.') != -1)
+flashVersion = 2; 
+else if (flashPlugin.description.indexOf(' 1.') != -1)
+flashVersion = 1; 
+else if (flashPlugin.description.indexOf(' 6.') != -1)
+flashVersion = 6; 
+else if (flashPlugin.description.indexOf(' 7.') != -1)
+flashVersion = 7; 
+else
+flashVersion = 8;
+}
+}
+else if (agent.indexOf('msie') != -1 && parseInt(navigator.appVersion) >= 4 && agent.indexOf('win')!=-1 && agent.indexOf('16bit')==-1) 
+{
+if (window.sqHasFlash || typeof(window.andale_fv) != 'undefined')
+{
+if (window.sqHasFlash || andale_fv >= 6)
+{
+flashVersion = 6;
+}
+}
+else
+{
+document.writeln('<scr' + 'ipt language="VBScript">'); 
+document.writeln('on error resume next'); 
+document.writeln('dim obFlash '); 
+document.writeln('set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.7")'); 
+document.writeln('if IsObject(obFlash) then ');
+document.writeln('flashVersion = 7 '); 
+document.writeln('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.6") end if ');
+document.writeln('if flashVersion < 7 and IsObject(obFlash) then '); 
+document.writeln('flashVersion = 6 ');
+document.writeln('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.5") end if ');
+document.writeln('if flashVersion < 6 and IsObject(obFlash) then '); 
+document.writeln('flashVersion = 5 ');
+document.writeln('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.4") end if '); 
+document.writeln('if flashVersion < 5 and IsObject(obFlash) then ');
+document.writeln('flashVersion = 4 '); 
+document.writeln('else set obFlash = CreateObject("ShockwaveFlash.ShockwaveFlash.3") end if '); 
+document.writeln('if flashVersion < 4 and IsObject(obFlash) then '); 
+document.writeln('flashVersion = 3 '); 
+document.writeln('end if '); 
+document.writeln('</scr' + 'ipt>');
+}
+}
+}
+if (flashVersion >= 6)
+{
+document.writeln('<table align="center" valign="top" border="0" cellspacing="0" cellpadding="0">');document.writeln('<tr><td width="247"><tr><td align="right" 
+
+valign="top">');document.writeln('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" 
+
+WIDTH="752" HEIGHT="227" id="auctivastorewindow" ALIGN="middle">');document.writeln('<PARAM NAME=movie VALUE="http://asw.auctiva.com/StoreWindow_HScroller.swf">');document.writeln('<PARAM 
+
+NAME=FlashVars VALUE="'+passpara()+'">');document.writeln('<PARAM NAME=quality VALUE=high>'); 
+document.writeln('<PARAM NAME=wmode VALUE=transparent>'); 
+document.writeln('<PARAM NAME=allowScriptAccess VALUE=always>');document.writeln('<EMBED src="http://asw.auctiva.com/StoreWindow_HScroller.swf" FlashVars="'+passpara()+'"quality=high 
+
+');document.writeln('WIDTH="752" HEIGHT="227" NAME="auctivastorewindow" ALIGN="middle"');document.writeln('TYPE="application/x-shockwave-flash"');document.writeln
+
+('PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');document.writeln('</EMBED>');
+document.writeln('</OBJECT>'); 
+document.writeln('</td></tr></table>');
+}
+else
+{document.write('<a href="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash"><img src="http://www.auctiva.com/images/StoreWin_NoFlashPlayer_Hor.jpg" 
+
+border="0"></a><div style="text-align:center"><table align="center"><tr><td><a style="text-decoration:none" href="http://store.auctiva.com/russianmila"><img 
+
+src="http://ti2.auctiva.com/sw/images.gif" border="0"></a></td><td height="27px" valign="middle" align="center"><font face="arial" size="2"><b><a 
+
+href="http://store.auctiva.com/russianmila">russianmila</a> Store</b></font></td></tr></table></div>');}
+//--></SCRIPT>
+<NOSCRIPT><div style="text-align:center"><img src="http://ti2.auctiva.com/sw/java.gif" border="0"><br><table align="center"><tr><td><a style="text-decoration:none" 
+
+href="http://store.auctiva.com/russianmila"><img src="http://ti2.auctiva.com/sw/browse2.gif" border="0"></a></td><td height="21px" valign="middle" align="center"><font face="arial" 
+
+size="2"><b><a href="http://store.auctiva.com/russianmila">russianmila</a> Store</b></font></td></tr></table></div></NOSCRIPT>
+</td>
+</tr>
+</table>
+<!--ASW--><br><div align="center"><SCRIPT LANGUAGE='JavaScript' type='text/javascript'>function passparaSC(){return '&baseurl='+escape(location.href.substring(0, location.href.lastIndexOf
+
+('/') + 1)) +'&tagNum=2';} </script><SCRIPT language='JavaScript' type='text/javascript'><!-- 
+if (flashVersion >= 6)
+{
+document.writeln('<OBJECT classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,0,0" WIDTH="400" 
+
+HEIGHT="55" id="aswtagline" ALIGN="middle">');document.writeln('<PARAM NAME=movie VALUE="http://asw.auctiva.com/swtag.swf">');document.writeln('<PARAM NAME=FlashVars VALUE="'+passparaSC
+
+()+'">');document.writeln('<PARAM NAME=quality VALUE=high>'); 
+document.writeln('<PARAM NAME=wmode VALUE=transparent>'); 
+document.writeln('<PARAM NAME=allowScriptAccess VALUE=always>');document.writeln('<EMBED wmode="transparent" src="http://asw.auctiva.com/swtag.swf" FlashVars="'+passparaSC()+'"quality=high 
+
+');document.writeln('WIDTH="400" HEIGHT="55" NAME="aswtagline" ALIGN="middle"');document.writeln('TYPE="application/x-shockwave-flash"');document.writeln
+
+('PLUGINSPAGE="http://www.macromedia.com/go/getflashplayer">');document.writeln('</EMBED>');
+document.writeln('</OBJECT>'); 
+}
+else
+{document.write('<img src="http://ti2.auctiva.com/web/aswCredit.gif" border="0"><br><a href="http://www.auctiva.com?how=scLnk2" target="_blank"><img 
+
+src="http://ti2.auctiva.com/images/sc1line2.gif" border="0"></a>');}
+//--></SCRIPT><NOSCRIPT><img src="http://ti2.auctiva.com/web/aswCredit.gif" border="0"><br><a href="http://www.auctiva.com?how=scLnk2" target="_blank"><img 
+
+src="http://ti2.auctiva.com/images/sc1line2.gif" border="0"></a></NOSCRIPT></div><TABLE id=tb2 cellSpacing=0 cellPadding=0 width="100%" 
+
+background=http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/Animalbkg.gif border=0>
+<TBODY>
+<TR>
+<TD><BR>
+<TABLE id=tb2 cellSpacing=0 cellPadding=0 width="90%" align=center bgColor=#eedfc4>
+<TBODY>
+<TR borderColor=#FFFFFF>
+<TD width="20%">
+<DIV align=left>
+<TABLE id=Table_01 height=287 cellSpacing=0 cellPadding=0 width=880 border=0 align=center>
+<TBODY>
+<TR>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_01.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_02.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_03.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_04.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_05.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_06.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_07.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_08.gif" width=110></TD></TR>
+<TR>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_09.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_10.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_11.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_12.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_13.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_14.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_15.gif" width=110></TD>
+<TD><IMG height=95 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_16.gif" width=110></TD></TR>
+<TR>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_17.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_18.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_19.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_20.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_21.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_22.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_23.gif" width=110></TD>
+<TD><IMG height=96 alt="" src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/dhanimal22touchofclass_24.gif" 
+
+width=110></TD></TR></TBODY></TABLE></DIV></TD></TR></TBODY></TABLE>
+<TABLE id=tb3 cellSpacing=0 cellPadding=0 width=880 align=center bgColor=#FFFFFF>
+<TBODY>
+<TR class=text1 bgColor=#000000>
+<TD borderColor=#000000 width="20%" bgColor=#eedfc4>
+<DIV align=center><A class=text1 href="http://stores.ebay.com/Always-A-Touch-Of-Class" target=_parent>Visit Our Store</A></DIV></TD>
+<TD width="20%" bgColor=#eedfc4>
+<DIV align=center><A class=text1 href="http://members.ebay.com/ws/eBayISAPI.dll?ViewUserPage&amp;userid=atouchofclass18" target=_parent>About Me </A></DIV></TD>
+<TD borderColor=#000000 width="20%" bgColor=#eedfc4>
+<DIV align=center><A class=text1 href="http://cgi6.ebay.com/aw-cgi/eBayISAPI.dll?AcceptSavedSeller&amp;sellerid=atouchofclass18" target=_parent></A><A class=text1 
+
+href="http://cgi6.ebay.com/aw-cgi/eBayISAPI.dll?AcceptSavedSeller&amp;sellerid=atouchofclass18" target=_parent>Add Me As A Favorite Seller</A></DIV></TD>
+<TD borderColor=#000000 width="20%" bgColor=#eedfc4>
+<DIV align=center><A href="http://feedback.ebay.com/ws/eBayISAPI.dll?ViewFeedback&amp;userid=atouchofclass18">Feedback</A></DIV></TD>
+<TD borderColor=#000000 width="20%" bgColor=#eedfc4>
+<DIV align=center><A class=text1 href="http://contact.ebay.com/ws/eBayISAPI.dll?
+
+ShowCoreAskSellerQuestion&amp;requested=atouchofclass18&amp;ShowCoreAskSellerQuestion=&amp;iid=0&amp;redirect=0&amp;SSPageName=PageAskSellerQuestion_VI&amp;frm=284&amp;guest=1">Contact Me 
+
+</A></DIV></TD></TR></TBODY></TABLE><BR>
+<TABLE id=tb4 cellSpacing=10 cellPadding=4 width="80%" align=center bgColor=#eedfc4>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<P class=text5 align=center><SPAN class=text5><FONT size=5>
+<DIV></DIV>
+<CENTER>
+<P style="FONT-SIZE: 25pt; FONT-FAMILY: brando"><FONT color=#393532><FONT color=#000000><STRONG><!--Start Title or Specials info here --> Classic 4 You STR_TITLE
+</FONT><FONT color=#ff0010><br />
+..Comes with a FREE $20 Gift Certificate From KNITWEAR DOCTOR.
+<!--End Title or Specials info here --></FONT></SPAN></P></STRONG></FONT></CENTER></FONT></TD></TR></TBODY></TABLE>
+<DIV align=center>
+<P><!-- INSERT YOUR 1ST IMAGE HERE -->
+
+<!-- END YOUR 1ST IMAGE HERE -->
+<P></P>
+<P></P></DIV>
+<TABLE id=tb4 cellSpacing=10 cellPadding=4 width="80%" align=center bgColor=#eedfc4 border=0>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<P align=center><IMG height=96 src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/shopdesc2.gif" width=375></P>
+<!--START BIGCOMMERCE--><P class=text10 align=left>
+<DIV style="TEXT-ALIGN: center"><FONT face=metro color=#393532 size=6><FONT color=#000000><STRONG><!--Start Description Information Here ***INSERT 
+<br> WHERE YOU WOULD LIKE A NEW LINE***--> CLASSIC 4 You STR_TITLE
+<BR><BR>
+STR_DESCRIPTION
+<!--End Description Information Here --></FONT><BR></DIV><FONT face=clean color=#353535 size=3><BR></FONT>
+<DIV style ="TEXT-ALIGN: center"><FONT face=metro color=#393569 size=5><IMG src="http://i151.photobucket.com/albums/s123/getframednow/misc/littleblackpearl.png"> <EM> Please check 
+
+measurements because size on tag doesn't always measure correctly. <BR>
+<DIV style ="TEXT-ALIGN: center"><FONT face=metro color=#393569 size=5>
+STR_MEASUREMENTS
+<BR><IMG src="http://i151.photobucket.com/albums/s123/getframednow/misc/littleblackpearl.png"> 
+STR_CONDITION
+<BR><ALIGN ="center"><FONT color=#0003> <!--**********************************************--><!--************END LIST**********************--><!--
+
+**********************************************--></A>&nbsp;<BR><STRONG><FONT color=#2f0089>Your satisfaction is very important to us,<br />so please don't hesitate to ask us any questions.
+<br>Thank you..</FONT></STRONG></FONT>
+<P></P>
+<!--START BC REMOVE-->
+<P align=center><FONT face=metro color=#393532 size=6>Be sure to add me to your <A href="http://my.ebay.com/ws/eBayISAPI.dll?
+
+AcceptSavedSeller&amp;sellerid=atouchofclass18&amp;sspageName=DB:FavList" target=_blank>favorites list</A>!<br />Check out my <A href="http://search.ebay.com/_W0QQsassZatouchofclass18" 
+
+target=_blank>other items</A>!</FONT><FONT face=metro color=#393898 size=6><BR></FONT></P>
+<DIV style="TEXT-ALIGN: center"><FONT face=metro color=#870052 size=6><A href="mailto:%20alwaysatouchofclass@yahoo.com?subject=ebay%20question" <br></FONT></DIV>
+<DIV style="TEXT-ALIGN: center"><FONT face=metro color=#393532 size=6></FONT></DIV><FONT face=metro color=#393532 size=6></FONT>
+<DIV style="TEXT-ALIGN: center"><FONT face=metro color=#393532 size=6><A href="mailto:%20alwaysatouchofclass@yahoo.com?subject=ebay%20question">Always A Touch of Class </FONT></A></FONT>
+<!--********************--><!--END DESCRIPTION--><!--********************-->
+<P></P>
+<!--END BC REMOVE-->
+<DIV align="side by side">
+<P></P></DIV>
+<P align=justify> <!-- INSERT YOUR ADD'L IMAGE HERE (DELETE EXTRA PICTURE SPACES BY DELETING THIS CODE: 
+<img src="PICTURE_URL_GOES_HERE" name="img" border="0" id="img"><BR>
+NEED MORE PICS? COPY AND PASTE THIS CODE: 
+<img src="PICTURE_URL_GOES_HERE" name="img" border="0" id="img"><BR>
+--></P> 
+STR_PHOTOS
+<!-- END YOUR ADD'L IMAGE HERE -->
+<!--END BIGCOMMERCE-->
+<P></P>
+<P align=center><IMG height=102 src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/shoppay2.gif" width=294></P>
+<P class=text1 align=center><!--Start Payment Information Here ***INSERT 
+<br> WHERE YOU WOULD LIKE A NEW LINE***-->I always like to make it as easy as possible for payment. We accept paypal and credit cards. Once payment is received, I either ship the same or 
+
+next day. Payment is expected within 7 days. If you have any questions about payment please email me. <BR> SALES TAX <BR> Sales Tax will be 7.75% in the state of CA. I will add this to your 
+
+invoice after item has ended. If you have any questions, please ask<!--End Payment Information Here --></P>
+<P align=center><IMG height=96 src="http://i39.photobucket.com/albums/e178/russianmila/Template%20Images/shopship2.gif" width=294></P>
+<P class=text1 align=center><!--Shipping Information Here ***INSERT 
+<br> WHERE YOU WOULD LIKE A NEW LINE***--> UPS insures packages up to $100; however, anything additional should be insured. <BR>----DOMESTIC---- <BR>Shipping and handling will be paid by 
+
+the buyer. Shipping within the United States usually takes 4-10 days. I use UPS Ground or USPS for shipping and insure items over $100. UPS doesn't ship to P.O. Box, so if you have a P.O. 
+
+Box registered on eBay, please give me your mailing address. If you prefer to use USPS I can always use them for you. "Pay only $5.00 postage for each additional item from any of my other 
+
+listings! " <BR <br ~~INTERNATIONAL~~ .>All shipping that is to be outside the US, Hawaii, Alaska, and Canada will be calculated before shipment and a new invoice will be sent for the final 
+
+total. If you would like to get the shipping fee before purchasing, please feel free to contact me. To arrange an overnight, next day, 2nd day, 3rd day, etc., please contact me or call toll 
+
+free 800-888-3459. I would be more than happy to send items quicker. Of course fee will apply. <!--End Shipping Information Here --></P>
+
+<P class=text1 align=center><!--Start Policy & Return Information Here ***INSERT <br> WHERE YOU WOULD LIKE A NEW LINE***-->
+
+</FONT></P></DIV></FONT></DIV></STRONG></FONT></TD></TR></TBODY></TABLE>
+
+<P>&nbsp;</P>
+
+
+
+<TABLE id=tb4 cellSpacing=10 cellPadding=4 width="80%" align=center bgColor=#eedfc4>
+<TBODY>
+<TR>
+<TD vAlign=top>
+<P class=text5 align=center><SPAN class=text5><FONT size=5>
+<DIV></DIV>
+<CENTER>
+<P class=text1 align=center><!--Start Policy & Return Information Here ***INSERT <br> WHERE YOU WOULD LIKE A NEW LINE***--><em><strong><FONT face=metro color=#393569 size=5>
+RETURN POLICY <BR>No returns or refunds unless I made a mistake in the listing. I am very honest and open with all details in my 
+
+listings. Please ask me any questions before bidding and always check measurements..Thank you and I am always here for you <!--End Policy & Return Information Here --></P>
+<P class=text1 align=center> </P>
+<P align=center><FONT size=5>
+<MARQUEE><!--Start SCROLLING MARQUEE info here -->Always "A Touch Of Class"... Superior Items, Superior Deals &amp; <U>Always</U> Superior Service!" <!--End SCROLLING MARQUEE info here --></MARQUEE></FONT></P>
+<P class=text1 align=center><FONT size=2>Copyright © 2007 <A href="http://stores.ebay.com/ChicModa-Designs">ChicModa Designs</A>- All Rights Reserved<BR>Unauthorized Duplication Prohibited. </em></SPAN></P></STRONG></FONT></CENTER></FONT></TD></TR></TBODY></TABLE>
+<P>&nbsp;</P>
+<P>&nbsp;</P>
+<P></P></TD></TR></TBODY></TABLE>
+
+<CENTER></CENTER>
+<CENTER></CENTER>
+<CENTER></CENTER></TD></TR><TR><TD style="VERTICAL-ALIGN: top"><BR></TD></TR></TBODY></TABLE>
+<CENTER></CENTER></TD></TR></TBODY></TABLE>
+<DIV></DIV></TD></TR></TBODY></TABLE>
+<DIV></DIV></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE>
